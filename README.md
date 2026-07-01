@@ -17,3 +17,5 @@ I provide clean, responsive, and thoroughly tested code solutions for common web
 All payments are processed securely via **USDT (BEP20 network)**.
 - **My Wallet Address:** 0x440604c6d924270bebdc22ec86192cb8fdebe4c9
 - **Process:** Once you send the crypto, message me the transaction hash, and I will instantly send you the clean, documented code package.
+ ## Featured Projects
+* **[Responsive Contact Form](https://github.com/fixwithusman/web-fixes-vault/tree/main/contact-form)**: A mobile-first, lead generation contact form with built-in validation and success states.
