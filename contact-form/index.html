@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get In Touch | Lead Generation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="theme-header">
+        <button id="themeToggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">
+            <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" width="20" height="20">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m0 13.5V21M4.22 4.22l1.58 1.58m12.42 12.42l1.58 1.58M3 12h2.25m13.5 0H21M4.22 19.78l1.58-1.58M17.66 6.34l1.58-1.58M12 7.5a4.5 4.5 0 110 9 4.5 4.5 0 010-9z" />
+            </svg>
+            <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" width="20" height="20">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z" />
+            </svg>
+            <span id="themeText">Dark Mode</span>
+        </button>
+    </header>
+
+    <main class="form-container">
+        <div class="form-card" id="formCard">
+            <div class="form-header">
+                <h2>Let's Start Your Project</h2>
+                <p>Fill out the form below and our team will get back to you shortly.</p>
+            </div>
+
+            <form id="leadForm" novalidate>
+                <div class="form-group">
+                    <label for="userName">Full Name</label>
+                    <input type="text" id="userName" name="name" placeholder="John Doe" required>
+                    <span class="error-message" id="nameError">Please enter your full name.</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="userPhone">Phone Number</label>
+                    <input type="tel" id="userPhone" name="phone" placeholder="e.g., 03001234567" required>
+                    <span class="error-message" id="phoneError">Please enter a valid 11-digit phone number.</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="serviceType">Service Type</label>
+                    <select id="serviceType" name="service" required>
+                        <option value="" disabled selected>Select a service...</option>
+                        <option value="web-repair">Web Repair</option>
+                        <option value="new-website">New Website</option>
+                        <option value="bug-fix">Bug Fix</option>
+                        <option value="other">Other</option>
+                    </select>
+                    <span class="error-message" id="serviceError">Please select a service type.</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="userMessage">Message</label>
+                    <textarea id="userMessage" name="message" rows="4" placeholder="Tell us briefly about your project..." required></textarea>
+                    <span class="error-message" id="messageError">Please enter your message.</span>
+                </div>
+
+                <button type="submit" class="submit-btn">Send Request</button>
+            </form>
+        </div>
+
+        <div class="success-card hidden" id="successState">
+            <div class="success-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="64" height="64">
+                    <path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.5 2.5a.75.75 0 001.14-.082l4-5.6z" clip-rule="evenodd" />
+                </svg>
+            </div>
+            <h2>Thank you!</h2>
+            <p>Your request has been received. We will contact you on WhatsApp shortly.</p>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
