@@ -39,5 +39,4 @@ I accept standard local payment methods including **Bank Transfer** and **EasyPa
 
 ## Featured Projects
 
-* **[Live Preview] Responsive Contact Form:** A mobile-first, lead generation contact form with built-in validation and success states. [(PASTE_YOUR_LIVE_LINK_HERE/contact-for)](https://fixwithusman.github.io/web-fixes-vault/)
-
+* **[Live Preview] Responsive Contact Form:** A mobile-first, lead generation contact form with built-in validation and success states.[Click here to view live](https://fixwithusman.github.io/web-fixes-vault/contact-form/)
