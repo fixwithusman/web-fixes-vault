@@ -37,5 +37,7 @@ I accept standard local payment methods including **Bank Transfer** and **EasyPa
 * **Frontend Development:** HTML5, CSS3, Modern JavaScript (ES6+)
 * **Design Philosophy:** Mobile-first, responsive grid systems, clean layout architecture, and rapid loading speeds.
 
- ## Featured Projects
-* **[Responsive Contact Form](https://github.com/fixwithusman/web-fixes-vault/tree/main/contact-form)**: A mobile-first, lead generation contact form with built-in validation and success states.
+## Featured Projects
+
+* **[Live Preview] Responsive Contact Form:** A mobile-first, lead generation contact form with built-in validation and success states. [(PASTE_YOUR_LIVE_LINK_HERE/contact-for)](https://fixwithusman.github.io/web-fixes-vault/)
+
