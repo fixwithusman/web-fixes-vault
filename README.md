@@ -1,21 +1,41 @@
-# Web-Fixes-Vault
+# FixWithUsman | Web & Mobile Solutions
 
-A collection of modular, responsive web components and bug fixes for modern websites.
+Professional, high-performance web development and mobile layout optimizations tailored for local businesses. I specialize in turning slow, broken, or outdated web layouts into smooth, responsive digital experiences that convert visitors into customers.
+
+---
 
 ## Available Services
-I provide clean, responsive, and thoroughly tested code solutions for common web development problems.
-- Custom bug fixes for HTML/CSS/JS layouts.
-- Responsive design implementation for mobile compatibility.
-- Modular component building (Contact forms, Navbars, Pricing tables).
+
+I provide clean, fully tested, and responsive web solutions for common business challenges:
+
+* **Mobile Optimization:** Redesigning desktop-only websites to ensure they work flawlessly on smartphones and tablets.
+* **Custom Digital Menus & Landing Pages:** Creating high-converting, fast-loading modern layouts for restaurants, cafes, and local brands.
+* **Layout & Bug Fixes:** Rapid troubleshooting for broken HTML, CSS, and JavaScript elements.
+* **Lead Generation Forms:** Building secure, custom contact and inquiry forms to capture client details effortlessly.
+
+---
 
 ## How to Work With Me
-1. Browse my vault for existing solutions.
-2. If you need a custom fix, DM me on Discord: **fixwithusman**
-3. Explain your issue, and I will provide a quote.
 
-## Payment
-All payments are processed securely via **USDT (BEP20 network)**.
-- **My Wallet Address:** 0x440604c6d924270bebdc22ec86192cb8fdebe4c9
-- **Process:** Once you send the crypto, message me the transaction hash, and I will instantly send you the clean, documented code package.
+1. **Reach Out:** Send a Direct Message on Instagram **@fixwithusman** with a link to your current website or a brief description of your project.
+2. **Consultation & Quote:** We will review your specific technical bugs or design goals via chat, and I will provide a transparent timeline and fixed quote.
+3. **Execution:** I develop, test, and polish the solution, keeping you updated on the progress.
+
+---
+
+## Payment & Terms
+
+I accept standard local payment methods including **Bank Transfer** and **EasyPaisa**.
+
+* **Transparent Milestones:** Payment milestones (such as a standard 50% upfront deposit and 50% upon final approval) will be clearly agreed upon before any work begins.
+* **Secure Billing:** Official account details for billing are provided privately and securely during our direct consultation.
+
+---
+
+## Core Technologies
+
+* **Frontend Development:** HTML5, CSS3, Modern JavaScript (ES6+)
+* **Design Philosophy:** Mobile-first, responsive grid systems, clean layout architecture, and rapid loading speeds.
+
  ## Featured Projects
 * **[Responsive Contact Form](https://github.com/fixwithusman/web-fixes-vault/tree/main/contact-form)**: A mobile-first, lead generation contact form with built-in validation and success states.
