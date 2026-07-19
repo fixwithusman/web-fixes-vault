@@ -40,3 +40,4 @@ I accept standard local payment methods including **Bank Transfer** and **EasyPa
 ## Featured Projects
 
 * **[Live Preview] Responsive Contact Form:** A mobile-first, lead generation contact form with built-in validation and success states.[Click here to view live](https://fixwithusman.github.io/web-fixes-vault/contact-form/)
+* **[Live Preview] Premium Digital Menu:** A responsive, dark-mode restaurant menu system featuring fluid grid architectures, dynamic category tagging, and adaptive desktop layout symmetry. [Click here to view live](https://fixwithusman.github.io/digital-menu-starter-kit/)
