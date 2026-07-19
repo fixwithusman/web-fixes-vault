@@ -1,43 +1,16 @@
-# FixWithUsman | Web & Mobile Solutions
+# Digital Menu Starter Kit 🚀
 
-Professional, high-performance web development and mobile layout optimizations tailored for local businesses. I specialize in turning slow, broken, or outdated web layouts into smooth, responsive digital experiences that convert visitors into customers.
+An ultra-lightweight, mobile-first digital menu system engineered for high performance, smooth animations, and clean user experience. Built with pure vanilla web technologies (HTML5, CSS3, JavaScript) to deliver a native app-like feel directly in the browser with zero external dependencies.
 
----
+## 🔥 Key Features
 
-## Available Services
-
-I provide clean, fully tested, and responsive web solutions for common business challenges:
-
-* **Mobile Optimization:** Redesigning desktop-only websites to ensure they work flawlessly on smartphones and tablets.
-* **Custom Digital Menus & Landing Pages:** Creating high-converting, fast-loading modern layouts for restaurants, cafes, and local brands.
-* **Layout & Bug Fixes:** Rapid troubleshooting for broken HTML, CSS, and JavaScript elements.
-* **Lead Generation Forms:** Building secure, custom contact and inquiry forms to capture client details effortlessly.
+*   **Native App Feel:** Designed entirely mobile-first with smooth gestures, layout grids, and a sticky category filter system.
+*   **Dual-Theme Architecture:** Full Light/Dark mode support toggled instantly via a global theme controller with state persistence.
+*   **Dynamic Data Rendering:** Zero hardcoded HTML menu items. The interface builds dynamically from clean JavaScript objects, making updates effortless.
+*   **Built-in Business Hooks:** Optimized layout including rapid action links (Direct Call, Interactive Location Maps, Operating Hours) and programmatic cross-selling modals.
 
 ---
 
-## How to Work With Me
+## 🛠️ Global Design System (`style.css`)
 
-1. **Reach Out:** Send a Direct Message on Instagram **@fixwithusman** with a link to your current website or a brief description of your project.
-2. **Consultation & Quote:** We will review your specific technical bugs or design goals via chat, and I will provide a transparent timeline and fixed quote.
-3. **Execution:** I develop, test, and polish the solution, keeping you updated on the progress.
-
----
-
-## Payment & Terms
-
-I accept standard local payment methods including **Bank Transfer** and **EasyPaisa**.
-
-* **Transparent Milestones:** Payment milestones (such as a standard 50% upfront deposit and 50% upon final approval) will be clearly agreed upon before any work begins.
-* **Secure Billing:** Official account details for billing are provided privately and securely during our direct consultation.
-
----
-
-## Core Technologies
-
-* **Frontend Development:** HTML5, CSS3, Modern JavaScript (ES6+)
-* **Design Philosophy:** Mobile-first, responsive grid systems, clean layout architecture, and rapid loading speeds.
-
-## Featured Projects
-
-* **[Live Preview] Responsive Contact Form:** A mobile-first, lead generation contact form with built-in validation and success states.[Click here to view live](https://fixwithusman.github.io/web-fixes-vault/contact-form/)
-* **[Live Preview] Premium Digital Menu:** A responsive, dark-mode restaurant menu system featuring fluid grid architectures, dynamic category tagging, and adaptive desktop layout symmetry. [Click here to view live](https://fixwithusman.github.io/digital-menu-starter-kit/)
+The interface layout and themes are controlled entirely through centralized tokens in the CSS `:root` layer. No scattered hex codes or fragmented pixel choices
