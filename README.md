@@ -50,4 +50,3 @@ Have a broken layout, a site that needs optimizing, or a completely custom tool 
 
 *   **Instagram:** [@fixwithusman](https://instagram.com/fixwithusman)
 *   **GitHub:** [@fixwithusman](https://github.com/fixwithusman)
-*
