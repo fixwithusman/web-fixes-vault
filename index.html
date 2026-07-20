@@ -11,8 +11,7 @@
             --border-color: #30363d;
             --text-main: #c9d1d9;
             --text-muted: #8b949e;
-            --primary: #238636;
-            --primary-hover: #2ea44f;
+            --btn-green: #4ade80; /* Bright, high-visibility neon green */
             --accent: #58a6ff;
         }
 
@@ -96,22 +95,21 @@
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            background-color: var(--primary);
-            color: #ffffff;
+            background-color: var(--btn-green) !important;
+            color: #000000 !important; /* Forces text to be deep black for maximum readability */
             padding: 12px 24px;
             text-decoration: none;
-            font-weight: 600;
+            font-weight: 700;
             border-radius: 6px;
             font-size: 14px;
             transition: all 0.2s ease;
-            border: 1px solid transparent;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 4px 12px rgba(74, 222, 128, 0.2);
         }
 
         .btn:hover {
-            background-color: var(--primary-hover);
-            transform: translateY(-1px);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(74, 222, 128, 0.4);
+            filter: brightness(1.1);
         }
 
         footer {
